@@ -13,10 +13,10 @@ I'm a developer passionate about working on **GCP**, **data visualization**, and
 ### 🌱 I’m currently learning
 - Advanced **Data Engineering**
 - Optimizing **Snowflake** for high-scale data projects
-
+<!--
 ### 📈 GitHub Stats
 ![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohan1k&show_icons=true&theme=radical)
-
+-->
 ### 💼 LinkedIn Profile
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/rohankokku/)
 <!--
