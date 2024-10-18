@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi there, I'm Rohan! 👋
 
 I'm a developer passionate about working on **GCP**, **data visualization**, and **cloud-based solutions**. I'm also exploring **remote and hybrid work productivity**.
