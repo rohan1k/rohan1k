@@ -40,7 +40,7 @@ I'm a developer passionate about working on **GCP**, **data visualization**, and
 
 ---
 
-💬 Want to collaborate? **[Send me a message!](mailto:rohan@example.com)**
+💬 Want to collaborate? **[Send me a message!](mailto:rohankokku@gmail.com)**
 <!--
 **rohan1k/rohan1k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
