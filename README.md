@@ -9,6 +9,9 @@ I'm a developer passionate about working on **GCP**, **data visualization**, and
 - 🛠️ Git, GitHub, Docker
 - 🎛️ IoT with Raspberry Pi
 
+### 🔭 Projects
+- 📺 **[tv-debloat](https://github.com/rohan1k/skills-introduction-to-github)**: a Python CLI that connects to Android TV / Google TV over ADB and removes preinstalled bloatware, ads and telemetry, with undo. Tested on a TCL Smart TV Pro: 37 packages removed, 0 failures.
+
 ### 🌱 I’m currently learning
 - Advanced **Data Engineering**
 - Optimizing **Snowflake** for high-scale data projects
